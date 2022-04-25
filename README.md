@@ -1,9 +1,9 @@
 <!---![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Monash-UAS-Banner.jpg)--->
 
-![Monash UAS](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Fneon-pixel&psig=AOvVaw1MMkFi_x-9ryZ1T6enI563&ust=1650961979608000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKDJo-HmrvcCFQAAAAAdAAAAABAO)
+![Monash UAS](https://github.com/earn4393/earn4393/blob/f3d00a868e66588ece2db91814d179df6e2bf298/2825826.gif)
 
 <p align="center">
-    <a href="https://github.com/alwinw" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://github.com/earn4393" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/alwinrwang" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="https://www.researchgate.net/profile/Alwin_Wang" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
     <a href="https://orcid.org/0000-0003-4883-2917" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
