@@ -16,7 +16,6 @@
 <h2>My Prijects</h2>
 <ul>
     <li><a href=https://github.com/earn4393/ErNurPs_bot.git/>ErNurPs_bot</a></li>
-    <li><a href=https://github.com/earn4393/etune-ku-projectse.git/>Building a Vue 3 Desktop App With Pinia, Electron and Quasar</a></li>
     <li><a href=https://github.com/earn4393/Se_project7/>Se_project7</a></li>
 </ul>
 
