@@ -22,7 +22,6 @@
 <details>
 <summary>GitHub Stats</summary>
 <div>
-    <br>
      <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=earn4393&show_icons=true&theme=synthwave" >
      <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earn4393&langs_count=8&layout=compact"> 
 </div>
