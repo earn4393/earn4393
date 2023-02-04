@@ -18,6 +18,7 @@
     <li><a href=https://github.com/earn4393/ErNurPs_bot.git/>ErNurPs_bot</a></li>
     <li><a href=https://github.com/earn4393/Se_project7/>Se_project7</a></li>
     <li><a href=https://github.com/earn4393/IAoon/>IAoon</a></li>
+    <li><a href=https://github.com/earn4393/NY_GiftMealDemo/>NY_GiftMealDemo</a></li>
 </ul>
 
 <details>
