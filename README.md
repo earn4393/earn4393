@@ -13,19 +13,3 @@
     
 </div>
 
-<h2>My Prijects</h2>
-<ul>
-    <li><a href=https://github.com/earn4393/ErNurPs_bot.git/>ErNurPs_bot</a></li>
-    <li><a href=https://github.com/earn4393/Se_project7/>Se_project7</a></li>
-    <li><a href=https://github.com/earn4393/IAoon/>IAoon</a></li>
-    <li><a href=https://github.com/earn4393/KitKatStore/>KitKatStore</a></li>
-    <li><a href=https://github.com/earn4393/NY_GiftMealDemo/>NY_GiftMealDemo</a></li>
-</ul>
-
-<details>
-<summary>GitHub Stats</summary>
-<div>
-     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=earn4393&show_icons=true&theme=synthwave" >
-     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earn4393&langs_count=8&layout=compact"> 
-</div>
-</details>
